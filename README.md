@@ -1,8 +1,7 @@
 # awesome-telco-security
 A list of telco security resources and projects.
 
-## Forked from https://github.com/W00t3k/Awesome-Cellular-Hacking & https://github.com/chacka0101/Hacking-Mobile
-
+### Forked from https://github.com/W00t3k/Awesome-Cellular-Hacking & https://github.com/chacka0101/Hacking-Mobile
 
 ## Rogue BTS & CDMA/GSM Traffic Impersonation and Interception 
 - [How to create an Evil LTE Twin/LTE Rogue BTS](https://medium.com/@adam.toscher/how-to-create-an-evil-lte-twin-34b0a9ce193b)
